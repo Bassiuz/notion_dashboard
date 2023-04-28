@@ -19,7 +19,7 @@ dependencies:
   widgets_to_image: ^0.0.2
 
 dev_dependencies:
-  auto_route_generator: ^6.0.3
+  auto_route_generator: ^6.2.0
   bloc_test: ^9.1.1
   build_runner: ^2.3.3
   chopper_generator: ^6.0.0
